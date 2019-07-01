@@ -27,7 +27,7 @@
   "dependencies": {
     "vue": "^2.1.0",
     "bourbon": "^4.2.7",
-    "payment": "^2.1.4"
+    "payment-troy": "^2.1.4"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",

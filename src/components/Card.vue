@@ -35,7 +35,7 @@
 
 <script>
 import Vue from 'vue'
-import Payment from 'payment/lib'
+import Payment from 'payment-troy'
 
 let options = {
   formatting: false,
