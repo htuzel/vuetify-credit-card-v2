@@ -1,12 +1,14 @@
 {
-  "name": "vue-credit-card",
+  "name": "vue-credit-card-troy",
   "version": "0.0.7",
   "description": "Vue.js wrapper for credit card https://github.com/jessepollak/card",
   "keywords": [
     "card",
     "credit",
     "vuejs",
-    "vue"
+    "vue",
+    "Troy",
+    "Laravel"
   ],
   "main": "src/components/Card.vue",
   "scripts": {
@@ -23,7 +25,7 @@
     "type": "git",
     "url": "https://github.com/thiago-Malaca/vue-credit-card"
   },
-  "author": "Thiago Malaquias <thiago.malaca@gmail.com>",
+  "author": "Hayreddin Tüzel",
   "dependencies": {
     "vue": "^2.1.0",
     "bourbon": "^4.2.7",
